@@ -14,8 +14,8 @@ For dokumentasjon av Skatteetatens API:
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
 
 For dokumentasjon for øvrige tjenester: 
--Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html )
--Digitaliseringsdirektoratets [Altinn Github](https://github.com/Altinn/altinn-studio-docs)
+- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html )
+- Digitaliseringsdirektoratets [Altinn](https://github.com/Altinn/altinn-studio-docs)
 
 ### Hvordan komme i gang og få tilgang (onboarding)
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med skattedeling@ks.no for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
