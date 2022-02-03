@@ -8,7 +8,7 @@ Se mer informasjon om prosjektet her:
 - KS sin informasjonsside for prosjektet: [KS Skattedeling](https://www.ks.no/skattedeling)
 
 ### Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO
-API-et eller det tekniske grensesnittet «Summert skattegrunnlag» er tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med bare de nødvendige opplysningene kommuner trenger for å gjøre et vedtak for denne tjenesten.   
+API-et eller det tekniske grensesnittet [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) er tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med de nødvendige opplysningene kommuner trenger for å gjøre et vedtak for denne tjenesten.   
 
 For dokumentasjon av Skatteetatens API: 
 - [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
