@@ -14,7 +14,7 @@ For dokumentasjon av Skatteetatens API:
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
 
 For dokumentasjon for øvrige tjenester: 
-- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html )
+- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
 - Digitaliseringsdirektoratets [Altinn](https://github.com/Altinn/altinn-studio-docs)
 
 ### Hvordan komme i gang og få tilgang (onboarding)
@@ -45,6 +45,9 @@ Informasjon kommer. Få mer informasjon og veiledning for oppkobling ved å ta k
 
 
 ```
+###[Skatteetatens APIer](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
+###[Altinn Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
+
 
 ### Kontakt og brukerstøtte
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
