@@ -68,7 +68,7 @@ Syntax highlighted code block
 ### Kontakt og brukerstøtte
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
 
-Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til [KS Skattedeling](skattedeling@ks.no).
+Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til skattedeling@ks.no.
 
   
 
