@@ -17,7 +17,7 @@ For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- 
 - Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem dette er.
 
 ```markdown
-Syntax highlighted code block
+Oppkobling gjennom fagsystemleverandør
 
 # Header 1
 ## Header 2
