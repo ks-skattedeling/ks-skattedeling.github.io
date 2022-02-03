@@ -4,6 +4,9 @@ Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre 
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med skattedeling@ks.no for å få tilsendt avtale. 
 
+Se mer informasjon om prosjektet her: 
+- KS sin informasjonsside for prosjektet: [KS Skattedeling] (https://www.ks.no/skattedeling)
+
 ### Hvordan komme i gang og få tilgang (onboarding)
 
 
