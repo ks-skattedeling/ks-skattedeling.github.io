@@ -13,8 +13,8 @@ For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- 
 - Kommunens organisasjonsnummer
 - Kontakinformasjon til kommunen
 - Kontaktinformasjon til en kontaktperson i kommunen
-NB! Skriv i emnefeltet navnet på kommunen som ønsker å gjøre oppkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
-NB! Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem dette er.
+- NB! Skriv i emnefeltet navnet på kommunen som ønsker å gjøre oppkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
+- NB! Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem dette er.
 
 ```markdown
 Syntax highlighted code block
