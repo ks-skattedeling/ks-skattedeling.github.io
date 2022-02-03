@@ -15,7 +15,7 @@ For dokumentasjon av Skatteetatens API:
 
 For dokumentasjon for øvrige tjenester: 
 - Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
-- Digitaliseringsdirektoratets [Altinn](https://github.com/Altinn/altinn-studio-docs)
+
 
 ### Hvordan komme i gang og få tilgang (onboarding)
 **Avtaleinngåelse**
@@ -33,7 +33,11 @@ Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API.
 ```markdown
 
 
+
+
 Informasjon kommer. Få mer informasjon og veiledning for oppkobling ved å ta kontakt med skattedeling@ks.no
+
+
 
 
 
@@ -43,7 +47,11 @@ Informasjon kommer. Få mer informasjon og veiledning for oppkobling ved å ta k
 ```markdown
 
 
+
+
 Informasjon kommer. Få mer informasjon og veiledning for oppkobling ved å ta kontakt med skattedeling@ks.no
+
+
 
 
 ```
