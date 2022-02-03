@@ -2,6 +2,7 @@
 
 Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en oppkobling til Skatteetatens APIer. Skatteetatens API for tjenesten «Redusert foreldrebetaling barnehage og skolefritidsordningen» er nå tilgjengelig for kommuner for å gjøre en oppkobling mot. API-et har navnet “Summert skattegrunnlag” og rettighetspakken “kommuneforeldrebetaling”.
 
+For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med skattedeling@ks.no for å få tilsendt avtale.
 
 ### Markdown
 
