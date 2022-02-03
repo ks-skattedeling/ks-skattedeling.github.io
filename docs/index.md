@@ -21,7 +21,7 @@ For dokumentasjon for øvrige tjenester:
 ### Hvordan komme i gang og få tilgang (onboarding)
 **Avtaleinngåelse**
 
-For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med skattedeling@ks.no for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
+For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med ***skattedeling@ks.no for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:***
 - Kommunens organisasjonsnummer
 - Kontakinformasjon til kommunen
 - Kontaktinformasjon til en kontaktperson i kommunen
@@ -36,7 +36,7 @@ Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API.
 
 
 Informasjon kommer. 
-Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
+Få mer informasjon og veiledning ved å ta kontakt med ***skattedeling@ks.no***
 
 
 
@@ -47,7 +47,7 @@ Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
 
 
 Informasjon kommer.
-Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
+Få mer informasjon og veiledning ved å ta kontakt med ***skattedeling@ks.no***
 
 
 
@@ -57,7 +57,7 @@ Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
 ### Kontakt og brukerstøtte
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
 
-Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til skattedeling@ks.no.
+Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til ***skattedeling@ks.no.***
 
 ### Ofte stilte spørsmål
 (Utarbeides)
