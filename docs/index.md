@@ -31,38 +31,19 @@ Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API.
 ```markdown
 
 
-# Header 1
-## Header 2
-### Header 3
+Informasjon kommer. Få mer informasjon og veiledning for oppkobling ved å ta kontakt med skattedeling@ks.no
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 **Direkte oppkobling til Skatteetatens API**
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+Informasjon kommer. Få mer informasjon og veiledning for oppkobling ved å ta kontakt med skattedeling@ks.no
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
 ```
 
 ### Kontakt og brukerstøtte
