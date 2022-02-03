@@ -1,11 +1,7 @@
 ## KS Skattedeling Dokumentasjon
 
-Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en oppkobling til Skatteetatens APIer. Nå er Skatteetatens API for tjenesten «Redusert foreldrebetaling barnehage og skolefritidsordningen» gjort tilgjengelig for kommuner for å gjøre en oppkobling mot. Prosjektet har sammen med ressurskommune og Skatteetaten gjennomført en behovskartlegging for opplysninger for de øvrige tjenestene som nevnes ovenfor. Det vil gis fortløpende informasjon om når et ferdig minimert API/datasett for nye tjenester er ferdig utarbeidet og tilgjengelig for kommunal sektor. 
+Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en oppkobling til Skatteetatens APIer. Skatteetatens API for tjenesten «Redusert foreldrebetaling barnehage og skolefritidsordningen» er nå tilgjengelig for kommuner for å gjøre en oppkobling mot. API-et har navnet “Summert skattegrunnlag” og rettighetspakken “kommuneforeldrebetaling”.
 
-
-You can use the [editor on GitHub](https://github.com/ks-skattedeling/ks-skattedeling.github.io/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
