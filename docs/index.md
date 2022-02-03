@@ -4,7 +4,7 @@ Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre 
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med skattedeling@ks.no for å få tilsendt avtale. 
 
-### Markdown
+### Hvordan komme i gang og få tilgang (onboarding)
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
