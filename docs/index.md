@@ -36,7 +36,7 @@ Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API.
 
 
 Informasjon kommer. 
-Få mer informasjon og veiledning ved å ta kontakt med ***skattedeling@ks.no***
+Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
 
 
 
@@ -47,7 +47,7 @@ Få mer informasjon og veiledning ved å ta kontakt med ***skattedeling@ks.no***
 
 
 Informasjon kommer.
-Få mer informasjon og veiledning ved å ta kontakt med ***skattedeling@ks.no***
+Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
 
 
 
