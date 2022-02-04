@@ -39,7 +39,7 @@ Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API.
 
 
 Informasjon kommer. 
-Ta kontakt med skattedeling@ks.no for veiledning og informasjon
+Ta kontakt med skattedeling@ks.no for veiledning og informasjon for oppkobling. 
 
 
 
