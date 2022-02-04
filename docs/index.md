@@ -16,6 +16,7 @@ For dokumentasjon av Skatteetatens API:
 For dokumentasjon av øvrige tjenester: 
 - [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 - Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
+Scope i Maskinporten som skal benyttes er **Skatteetaten:summertskattegrunnlag**
 
 
 ### Hvordan komme i gang (onboarding)
