@@ -21,7 +21,8 @@ For dokumentasjon av øvrige tjenester:
 ### Hvordan komme i gang (onboarding)
 **Avtaleinngåelse**
 
-For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
+For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
+Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
 - Kommunens organisasjonsnummer
 - Kontakinformasjon til kommunen
 - Kontaktinformasjon til en kontaktperson i kommunen
