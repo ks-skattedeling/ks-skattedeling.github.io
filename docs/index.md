@@ -18,7 +18,7 @@ For dokumentasjon for øvrige tjenester:
 - Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
 
 
-### Hvordan komme i gang og få tilgang (onboarding)
+### Hvordan komme i gang (onboarding)
 **Avtaleinngåelse**
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
