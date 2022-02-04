@@ -19,7 +19,7 @@ For dokumentasjon av øvrige tjenester:
 Scope i Maskinporten som skal benyttes er **Skatteetaten:summertskattegrunnlag**
 
 
-### Hvordan komme i gang (onboarding)
+### Hvordan komme i gang
 **Avtaleinngåelse**
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
@@ -32,7 +32,7 @@ Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må 
 
 Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding og ikke klar). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for oppkobling til Skatteetatens API som er å foretrekke.  
 
-**Oppkobling til Skatteetatens API**
+**Videre steg i oppkobling til Skatteetatens API**
 ```markdown
 
 
