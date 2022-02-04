@@ -14,8 +14,9 @@ For dokumentasjon av Skatteetatens API:
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
 
 For dokumentasjon av øvrige nødvendige tjenester for oppkobling til Skatteetatens API: 
-- [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
+
 - Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
+- [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 
 Scope i Maskinporten som skal benyttes er **Skatteetaten:summertskattegrunnlag**
 
