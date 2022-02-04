@@ -32,24 +32,13 @@ Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må 
 
 Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding og ikke klar). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for oppkobling til Skatteetatens API som er å foretrekke.  
 
-**Oppkobling til Skatteetatens API gjennom fagsystemleverandør**
+**Oppkobling til Skatteetatens API**
 ```markdown
 
 
 
 Informasjon kommer. 
-Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
-
-
-
-```
-
-**Direkte oppkobling til Skatteetatens API**
-```markdown
-
-
-Informasjon kommer.
-Få mer informasjon og veiledning ved å ta kontakt med skattedeling@ks.no
+Ta kontakt med skattedeling@ks.no for veiledning og informasjon
 
 
 
