@@ -13,12 +13,16 @@ For dokumentasjon av Skatteetatens API:
 - [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
 
-For dokumentasjon av øvrige nødvendige tjenester for oppkobling til Skatteetatens API: 
+Skatteetaten har to forskjellige metoder for autentisering av virksomheter: Maskinporten og virksomhetssertifikat. 
+
+For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
 
 - Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
 - [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 
-Scope i Maskinporten som skal benyttes er **Skatteetaten:summertskattegrunnlag**
+Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
+
+For veiledning for å delegere rettigheter i Altinn:
 
 - Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
