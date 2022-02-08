@@ -20,6 +20,7 @@ For dokumentasjon av øvrige nødvendige tjenester for oppkobling til Skatteetat
 
 Scope i Maskinporten som skal benyttes er **Skatteetaten:summertskattegrunnlag**
 
+- Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
 ### Hvordan komme i gang
 **Avtaleinngåelse**
