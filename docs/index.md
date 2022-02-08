@@ -32,6 +32,7 @@ Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må 
 - Kontaktinformasjon til en kontaktperson i kommunen
 - Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre oppkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
 - Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem leverandøren er.
+
 Send deretter signert og utfylt avtale tilbake til ***skattedeling@ks.no*** 
 
 Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding og ikke klar). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for oppkobling til Skatteetatens API som er å foretrekke.  
