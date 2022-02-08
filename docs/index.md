@@ -17,7 +17,7 @@ Skatteetaten har to forskjellige metoder for autentisering av virksomheter: Mask
 
 For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
 
-- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/maskinporten_overordnet.html)
+- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
 - [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 
 Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
