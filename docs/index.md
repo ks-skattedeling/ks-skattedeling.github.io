@@ -31,7 +31,7 @@ For veiledning for å delegere rettigheter i Altinn:
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
-- Kommunens organisasjonsnummer
+- Kommunens hovedorganisasjonsnummer (samme som benyttes i Maskinporten eller i virksomhetssertifikat)
 - Kontakinformasjon til kommunen
 - Kontaktinformasjon til en kontaktperson i kommunen
 - Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre oppkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
