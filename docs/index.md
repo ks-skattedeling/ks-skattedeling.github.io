@@ -13,7 +13,6 @@ For dokumentasjon av Skatteetatens API:
 - [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
 
-Skatteetaten har to forskjellige metoder for autentisering av virksomheter: Maskinporten og virksomhetssertifikat. 
 
 For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
 
