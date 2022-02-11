@@ -13,6 +13,10 @@ For dokumentasjon av Skatteetatens API:
 - [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
 
+For veiledning for å delegere rettigheter i Altinn:
+
+- Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
+
 
 For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
 
@@ -21,9 +25,6 @@ For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skat
 
 Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
 
-For veiledning for å delegere rettigheter i Altinn:
-
-- Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
 ### Hvordan komme i gang
 **Avtaleinngåelse**
