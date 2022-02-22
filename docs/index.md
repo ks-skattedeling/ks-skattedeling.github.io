@@ -31,11 +31,11 @@ Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegr
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
-- Kommunens hovedorganisasjonsnummer (samme som benyttes i Maskinporten eller i virksomhetssertifikat)
-- Kontakinformasjon til kommunen
+- Kommunens hovedorganisasjonsnummer (og er samme org.nr. som brukes i avtalen og i delegering i Altinn). 
+- Kontaktinformasjon til kommunen (kommunens epostadresse)
 - Kontaktinformasjon til en kontaktperson i kommunen
 - Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre oppkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
-- Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem leverandøren er.
+- Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem som er leverandøren.
 
 Send deretter signert og utfylt avtale tilbake til ***skattedeling@ks.no*** 
 
@@ -59,8 +59,9 @@ KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som 
 
 Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til ***skattedeling@ks.no.***
 
-### Ofte stilte spørsmål
-(Utarbeides)
+### Abonnere på nyheter og driftsvarsel fra Skatteetaten
+Ved å abonnere på driftsvarsel fra Skatteetaten får du raskest mulig beskjed om endringer i dokumentasjon, tekniske løsninger eller andre nyheter om [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html)
+
 
 
 
