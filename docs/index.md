@@ -77,7 +77,7 @@ Dersom det oppstår feil i tilgangen eller feilmelding, er det viktig at følgen
 
 
 ### Abonnere på nyheter og driftsvarsel fra Skatteetaten
-Ved å abonnere på driftsvarsel fra Skatteetaten får du raskest mulig beskjed om endringer i API, dokumentasjon, tekniske løsninger eller andre nyheter om [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html).
+Ved å abonnere på [driftsvarsel fra Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html) får du raskest mulig beskjed om endringer i API, dokumentasjon, feil eller nedetid hos Skatteetaten.
 
 
 
