@@ -43,6 +43,7 @@ Send deretter signert og utfylt avtale tilbake til ***skattedeling@ks.no***
 KS brukerstøtte videresender signert avtale til Skatteetaten, som gir kommunen tilgang til API. KS brukerstøtte gir beskjed til den aktuelle kommune når tilgang er gitt hos Skatteetaten. Selv om Skatteetaten har gitt tilgang til en kommune, og denne er aktiv, så må kommune som gjør påkobling gjennom fagsystemleverandør delegere rettighet i Altinn.  
 
 **Steg 2: Delegere rettighet til fagsystemleverandør i Altinn (For kommuner som gjør påkobling gjennom fagsystemleverandør)**
+
 Siden det er fagsystemleverandøren som gjør påkoblingen til Skatteetatens API på vegne av den enkelte kommunen, må kommunen delegere myndighet eller autorisasjon til fagsystemleverandøren i Altinn for å kunne gjøre påkoblingen. 
 
 ***Huskeliste:*** 
