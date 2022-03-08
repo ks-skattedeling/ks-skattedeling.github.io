@@ -33,7 +33,9 @@ Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API.
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens egenerklæring med tilhørende bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 
 
-Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
+Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. 
+
+Avtalen må fylles ut med følgende informasjon:
 
 - Kommunens hovedorganisasjonsnummer (og er samme org.nr. som brukes i avtalen og i delegering i Altinn). 
 - Kontaktinformasjon til kommunen (kommunens epostadresse)
