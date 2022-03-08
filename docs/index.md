@@ -71,7 +71,7 @@ Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal se
 **Feil og avvik**
 
 Dersom det oppstår feil i tilgangen eller feilmelding, er det viktig at følgende informasjon er inkludert i henvendelsen til KS brukerstøtte:
-- Dokumentasjon av feilen eller problemenet (tekstbeskrivelse og bilde). 
+- Dokumentasjon av feilen eller problemet (tekstbeskrivelse og bilde). 
 - Hvilket tidspunkt oppstod feilen.
 - Har kommunen på noen tidspunkt kunne hente ned skatte- og inntektsopplysninger gjennom API-et? 
 - Om fagsystemleverandøre gjør påkobling på vegne av kommunen, har kommunen delegert rettighet til fagsystemleverandøren? 
