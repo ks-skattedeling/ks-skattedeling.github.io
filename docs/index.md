@@ -25,9 +25,10 @@ For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skat
 
 Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
 
+Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for oppkobling til Skatteetatens API som er å foretrekke.  
 
 ### Hvordan komme i gang
-**Avtaleinngåelse**
+**Steg 1: Avtaleinngåelse (for alle)**
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens egenerklæring med tilhørende bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
@@ -39,25 +40,26 @@ Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må 
 
 Send deretter signert og utfylt avtale tilbake til ***skattedeling@ks.no*** 
 
-Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for oppkobling til Skatteetatens API som er å foretrekke.  
+KS brukerstøtte videresender signert avtale til Skatteetaten, som gir kommunen tilgang til API. KS brukerstøtte gir beskjed til den aktuelle kommune når tilgang er gitt hos Skatteetaten. Selv om Skatteetaten har gitt tilgang til en kommune, og denne er aktiv, så må kommune som gjør påkobling gjennom fagsystemleverandør delegere rettighet i Altinn.  
 
-**Videre steg i oppkobling til Skatteetatens API**
-```markdown
+**Steg 2: Delegere rettighet til fagsystemleverandør i Altinn (For kommuner som gjør påkobling gjennom fagsystemleverandør)**
+Siden det er fagsystemleverandøren som gjør påkoblingen til Skatteetatens API på vegne av den enkelte kommunen, må kommunen delegere myndighet eller autorisasjon til fagsystemleverandøren i Altinn for å kunne gjøre påkoblingen. 
 
+***Huskeliste:*** 
+- Bruk kommunens hovedorganisasjonnummer, og bruk det samme org.nr. kommunen har oppgitt i signert og tilsendt avtale (Skatteetaten gir tilgang på dette org.nr.).
+- Kommunen må også bruke riktig org.nr. til fagsystemleverandør.
+- Du finner rettigheten som skal delegeres gjennom å søke: "Summert skattegrunnlag - På vegne av". Det er denne som skal delegeres videre.
 
+For veiledning for å delegere rettigheter i Altinn:
 
-Informasjon kommer. 
-Ta kontakt med skattedeling@ks.no for veiledning og informasjon for oppkobling. 
-
-
-
-```
-
+- Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
 ### Kontakt og brukerstøtte
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
 
 Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til ***skattedeling@ks.no.***
+Ved feil er det viktig at følgende informasjon er inkludert i henvendelsen til KS brukerstøtte: 
+
 
 ### Abonnere på nyheter og driftsvarsel fra Skatteetaten
 Ved å abonnere på driftsvarsel fra Skatteetaten får du raskest mulig beskjed om endringer i dokumentasjon, tekniske løsninger eller andre nyheter om [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html)
