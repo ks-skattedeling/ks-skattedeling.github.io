@@ -56,7 +56,7 @@ Siden det er fagsystemleverandøren som gjør påkoblingen til Skatteetatens API
 ***Huskeliste:*** 
 - Bruk kommunens hovedorganisasjonnummer, og bruk det samme org.nr. kommunen har oppgitt i signert og tilsendt avtale (Skatteetaten gir tilgang på dette org.nr.).
 - Kommunen må også bruke riktig org.nr. til fagsystemleverandør.
-- Du finner rettigheten som skal delegeres gjennom å søke: "Summert skattegrunnlag - På vegne av". Det er denne som skal delegeres videre.
+- Du finner rettigheten som skal delegeres gjennom å søke: **"Summert skattegrunnlag - På vegne av"**. Det er denne som skal delegeres videre.
 
 For veiledning for å delegere rettigheter i Altinn:
 
