@@ -29,7 +29,7 @@ Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegr
 ### Hvordan komme i gang
 **Avtaleinngåelse**
 
-For å få tilgang til API må hver enkelt kommune signere Skatteetatens bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
+For å få tilgang til API må hver enkelt kommune signere Skatteetatens egenerklæring med tilhørende bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. Avtalen må fylles ut med følgende informasjon:
 - Kommunens hovedorganisasjonsnummer (og er samme org.nr. som brukes i avtalen og i delegering i Altinn). 
 - Kontaktinformasjon til kommunen (kommunens epostadresse)
