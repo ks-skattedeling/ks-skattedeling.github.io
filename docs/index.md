@@ -25,10 +25,10 @@ For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skat
 
 Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
 
-Det finnes flere alternativer for å gjøre en oppkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for oppkobling til Skatteetatens API som er å foretrekke.  
+Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for påkobling til Skatteetatens API som er å foretrekke.  
 
 ### Hvordan komme i gang
-**Steg 1: Avtaleinngåelse (for alle)**
+**Steg 1: Avtaleinngåelse (gjelder for alle)**
 
 For å få tilgang til API må hver enkelt kommune signere Skatteetatens egenerklæring med tilhørende bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 
@@ -40,7 +40,7 @@ Avtalen må fylles ut med følgende informasjon:
 - Kommunens hovedorganisasjonsnummer (og er samme org.nr. som brukes i avtalen og i delegering i Altinn). 
 - Kontaktinformasjon til kommunen (kommunens epostadresse)
 - Kontaktinformasjon til en kontaktperson i kommunen
-- Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre oppkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
+- Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre påkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
 - Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem som er leverandøren.
 
 
