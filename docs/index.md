@@ -66,11 +66,18 @@ For veiledning for å delegere rettigheter i Altinn:
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
 
 Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til ***skattedeling@ks.no.***
-Ved feil er det viktig at følgende informasjon er inkludert i henvendelsen til KS brukerstøtte: 
+
+
+**Feil og avvik**
+Dersom det oppstår feil i tilgangen eller feilmelding, er det viktig at følgende informasjon er inkludert i henvendelsen til KS brukerstøtte:
+- Dokumentasjon av feilen eller problemenet (tekstbeskrivelse og bilde). 
+- Hvilket tidspunkt oppstod feilen.
+- Har kommunen på noen tidspunkt kunne hente ned skatte- og inntektsopplysninger gjennom API-et? 
+- Om fagsystemleverandøre gjør påkobling på vegne av kommunen, har kommunen delegert rettighet til fagsystemleverandøren? 
 
 
 ### Abonnere på nyheter og driftsvarsel fra Skatteetaten
-Ved å abonnere på driftsvarsel fra Skatteetaten får du raskest mulig beskjed om endringer i dokumentasjon, tekniske løsninger eller andre nyheter om [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html)
+Ved å abonnere på driftsvarsel fra Skatteetaten får du raskest mulig beskjed om endringer i API, dokumentasjon, tekniske løsninger eller andre nyheter om [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html).
 
 
 
