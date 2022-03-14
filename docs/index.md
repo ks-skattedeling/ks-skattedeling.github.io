@@ -18,13 +18,6 @@ For veiledning for å delegere rettigheter i Altinn:
 - Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
 
-For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
-
-- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
-- [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
-
-Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
-
 Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for påkobling til Skatteetatens API som er å foretrekke.  
 
 ### Hvordan komme i gang
@@ -63,6 +56,13 @@ Siden det er fagsystemleverandøren som gjør påkoblingen til Skatteetatens API
 For veiledning for å delegere rettigheter i Altinn:
 
 - Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
+
+For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
+
+- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
+- [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
+
+Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
 
 ### Kontakt og brukerstøtte
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
