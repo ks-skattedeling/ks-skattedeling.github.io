@@ -53,8 +53,8 @@ For veiledning for å delegere rettigheter i Altinn:
 - Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
 **Maskinporten (For fagsystemleverandør og kommuner som gjøre direkte påkobling til Skatteetatens API)**
-- Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
-- [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
+- Slik bruker du [Maskinporten] som API-konsument(https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
+- Dokumentasjon av [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 
 Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
 
