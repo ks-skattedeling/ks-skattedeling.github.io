@@ -1,6 +1,6 @@
 ## KS Skattedeling Dokumentasjon
 
-Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en oppkobling til Skatteetatens API-er. 
+Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en påkobling til Skatteetatens API-er. 
 
 Se mer informasjon om prosjektet her: 
 - KS sin informasjonsside for prosjektet: [KS Skattedeling](https://www.ks.no/skattedeling)
@@ -11,32 +11,27 @@ API-et eller det tekniske grensesnittet [Summert skattegrunnlag API](https://ska
 For dokumentasjon av Skatteetatens API: 
 - [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
 - [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
-- [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2020](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2020)
+- [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
 
-For veiledning for å delegere rettigheter i Altinn:
+### Hvordan komme i gang med påkobling til Skatteetatens API
+Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har hverken tatt stilling til eller gjort en vurdering av hvilket alternativ for påkobling til Skatteetatens API som er å foretrekke for den enkelte kommune.  
 
-- Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
-
-Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API. Kommuner kan eksempelvis velge om de ønsker å koble seg direkte på Skatteetatens API, via en fagsystemleverandør eller via KS Fiks (er under utarbeiding). KS eller prosjektet har ikke tatt stilling til eller gjort en vurdering for hvilken alternativ for påkobling til Skatteetatens API som er å foretrekke.  
-
-### Hvordan komme i gang
 **Steg 1: Avtaleinngåelse (gjelder for alle)**
 
-For å få tilgang til API må hver enkelt kommune signere Skatteetatens egenerklæring med tilhørende bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
-
+For å få tilgang til Skatteetatens API, må den enkelt kommune signere Skatteetatens egenerklæring med tilhørende bruks- og delingsvilkår. Avtalen må signeres av en person i kommunen som kan forplikte kommunen til det som står skrevet i avtalen.
 
 Ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. 
 
-**Husk!** Om den ikke fylles ut med informasjon digital, skriv tydelig med blokkbokstaver.
+**Husk!** Om avtalen ikke fylles ut digitalt, skriv tydelig med blokkbokstaver.
 
 Avtalen må fylles ut med følgende informasjon:
 
 - Kommunens hovedorganisasjonsnummer (og er samme org.nr. som brukes i avtalen og i delegering i Altinn). 
 - Kontaktinformasjon til kommunen (kommunens epostadresse)
 - Kontaktinformasjon til en kontaktperson i kommunen
-- Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre påkobling og for hvilken tjeneste. For eksempel for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
-- Om kommunen skal gjøre en oppkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem som er leverandøren.
+- Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre påkobling og for hvilken tjeneste. For eksempel: X kommune ønsker å gjøre påkobling til Skatteetatens API for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
+- Om kommunen skal gjøre en påkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem som er leverandøren.
 
 
 Send deretter signert og utfylt avtale tilbake til ***skattedeling@ks.no*** 
@@ -44,9 +39,9 @@ Send deretter signert og utfylt avtale tilbake til ***skattedeling@ks.no***
 
 KS brukerstøtte videresender signert avtale til Skatteetaten, som gir kommunen tilgang til API. KS brukerstøtte gir beskjed til den aktuelle kommune når tilgang er gitt hos Skatteetaten. Selv om Skatteetaten har gitt tilgang til en kommune, og denne er aktiv, så må kommune som gjør påkobling gjennom fagsystemleverandør delegere rettighet i Altinn.  
 
-**Steg 2: Delegere rettighet til fagsystemleverandør i Altinn (For kommuner som gjør påkobling gjennom fagsystemleverandør)**
+**Steg 2: Delegere rettighet til fagsystemleverandør i Altinn (For kommuner som gjør påkobling gjennom fagsystemleverandør, og må gjøres for påkobling til hvert enkelte API fra Skatteetaten)**
 
-Siden det er fagsystemleverandøren som gjør påkoblingen til Skatteetatens API på vegne av den enkelte kommunen, må kommunen delegere myndighet eller autorisasjon til fagsystemleverandøren i Altinn for å kunne gjøre påkoblingen. 
+Dersom det er fagsystemleverandøren som gjør påkoblingen til Skatteetatens API på vegne av en enkelt kommune, må kommunen selv delegere myndighet eller autorisasjon til fagsystemleverandøren i Altinn. 
 
 ***Huskeliste:*** 
 - Bruk kommunens hovedorganisasjonnummer, og bruk det samme org.nr. kommunen har oppgitt i signert og tilsendt avtale (Skatteetaten gir tilgang på dette org.nr.).
@@ -57,8 +52,7 @@ For veiledning for å delegere rettigheter i Altinn:
 
 - Digitaliseringsdirektoratet: [Hvordan delegere rettigheter til leverandør i Altinn](https://vimeo.com/533856189)
 
-For dokumentasjon av øvrige tjenester for autentisering for oppkobling til Skatteetatens API: 
-
+**Maskinporten (For fagsystemleverandør og kommuner som gjøre direkte påkobling til Skatteetatens API)**
 - Digitaliseringsdirektoratets [Maskinporten](https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
 - [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 
