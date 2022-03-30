@@ -63,6 +63,8 @@ KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som 
 
 Derfor skal alle henvendelser, spørsmål og avvik/feilmeldinger fra kommunal sektor sendes til ***skattedeling@ks.no.***
 
+**Venter du på svar fra oss?** 
+Gjerne sjekk først om henvendelsen vår på epost ligger som søppelpost hos deg før du tar kontakt med oss. 
 
 ### Feil og avvik ###
 
