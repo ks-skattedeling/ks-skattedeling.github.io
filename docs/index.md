@@ -13,7 +13,7 @@ API-et/delingtjenesten for redusert foreldrebetaling  er nå tilgjengeliggjort a
 - Navnet på rettighetspakken er ***kommuneforeldrebetaling***
 - Navnet på scope i Maskinporten er ***skatteetaten:summerskattegrunnlag***
 - Skatteetatens dokumentasjon av [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
-- [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
+- Skatteetatens [informasjonsmodell for Summert skattegrunnlag API 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
 
 **Kommunal boligsosial støtte (Er i pilot)**
 
