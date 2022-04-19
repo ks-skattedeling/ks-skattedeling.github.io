@@ -1,19 +1,20 @@
 ## KS Skattedeling Dokumentasjon
 
 Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en påkobling til Skatteetatens API-er. 
-
 Se mer informasjon om prosjektet her: 
 - KS sin informasjonsside for prosjektet: [KS Skattedeling](https://www.ks.no/skattedeling)
 
-### Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)
-API-et eller det tekniske grensesnittet [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) er nå tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger  kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO.   
+Det er Skatteetaten som utvikler, forvalter og eier API-ene gjennom Skatteetatens delingstjenester. Det har egen kanal for teknisk dokumentasjon av alle deres API-er samt driftsmeldinger knyttet til disse:   
+[Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
 
-For dokumentasjon av Skatteetatens API: 
-- [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
+### Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)
+API-et/delingstjenesten [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) er nå tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger  kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.   
+
+For dokumentasjon av Skatteetatens API for redusert foreldrebetaling barnehage og SFO/AKS (Summert skattegrunnlag API): 
 - [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
 
-### Flere måter å gjøre en påkobling mot en av Skatteetatens API-er
+### Flere måter å gjøre en påkobling mot Skatteetatens API-er
 Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API-er:
 - kommuner kan koble seg til direkte på Skatteetatens API, og bygge sine egne tjenester selv
 - kommuner kobler seg opp via en leverandør (databehandler)
@@ -28,6 +29,7 @@ For å ta i bruk et API må kommunen:
 2. sende ***påkoblingsforespørsel*** til KS for tilgang til det enkelte API-et: dvs. det skal gjøres en påkoblingsforespørsel per API
 3. kommunen må ***delegere rettigheter via Altinn*** per API ved påkobling via leverandør
 
+Se mer informasjon om [hvordan koble seg til Skatteetatens API-er/delingstjenester](https://www.ks.no/fagomrader/digitalisering/felleslosninger/deling-av-opplysninger-fra-skatteetaten/hvordan-koble-seg-til-skatteetatens-delingslosninger/) 
 
 **Steg 1: Avtaleinngåelse - Signere tilslutningserklæring (gjelder for alle, og gjøres én gang)**
 
