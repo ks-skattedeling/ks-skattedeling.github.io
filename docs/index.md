@@ -15,6 +15,7 @@ API-et som benyttes er [Summert skattegrunnlag API](https://skatteetaten.github.
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
 
 **Kommunal boligsosial støtte (er i pilot)**
+
 API-et/delingstjenesten for vedtak om tildeling av behovsprøvet kommunal boligsosial støtte er nå i pilotprosjekt med KOBO (digitalt system for kommunale utleieboliger) og Oslo kommunes Kombo-prosjekt. For behovsprøvet boligsosial støtte trenger saksbehandler løpende inntektsopplysninger fra a-ordninger, opplysninger fra skattemelding og skatteoppgjør. API-et vil derfor dele siste tilgjengelige informasjon om en innbygger fra både a-meldingen, skattemelding og skatteoppgjør. Til dette benyttes to API-er. Se mer informasjon: [Kommunal boligsosial støtte](https://www.ks.no/fagomrader/digitalisering/felleslosninger/deling-av-opplysninger-fra-skatteetaten/kommunal-bolig-og-kommunal-bostotte/)
 
 - Navnet på er: [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html og [Inntektsmottaker API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_inntektsmottaker.html)
