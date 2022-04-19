@@ -6,14 +6,14 @@ Se mer informasjon om prosjektet her:
 
 Det er Skatteetaten som utvikler, forvalter og eier API-ene gjennom Skatteetatens delingstjenester. Det har egen kanal for teknisk dokumentasjon av alle deres API-er samt driftsmeldinger knyttet til disse: [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
 
-### Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)
+**Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)**
 API-et/delingstjenesten [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) er nå tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger  kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.   
 
 For dokumentasjon av Skatteetatens API for redusert foreldrebetaling barnehage og SFO/AKS (Summert skattegrunnlag API): 
 - [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
 
-### Flere måter å gjøre en påkobling mot Skatteetatens API-er
+### Flere alternativer å gjøre en påkobling mot Skatteetatens API-er
 Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API-er:
 - kommuner kan koble seg til direkte på Skatteetatens API, og bygge sine egne tjenester selv
 - kommuner kobler seg opp via en leverandør (databehandler)
