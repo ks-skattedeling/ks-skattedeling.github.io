@@ -24,7 +24,7 @@ API-et/delingstjenesten for vedtak om tildeling av behovsprøvet kommunal boligs
 - Navnet på scope i Maskinporten er ***skatteetaten:summerskattegrunnlag***
 - Rettigheten som skal delegeres i Altinn er ***Summert skattegrunnlag - På vegne av***
 
-### Flere alternativer å gjøre en påkobling mot Skatteetatens API-er
+### Alternativer for å gjøre en påkobling mot Skatteetatens API-er
 Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API-er:
 - kommuner kan koble seg til direkte på Skatteetatens API, og bygge sine egne tjenester selv
 - kommuner kobler seg opp via en leverandør (databehandler)
