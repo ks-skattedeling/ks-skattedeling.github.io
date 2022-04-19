@@ -7,7 +7,7 @@ Det er Skatteetaten som utvikler, forvalter og eier API-ene gjennom Skatteetaten
 
 **Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)**
 
-API-et/delingtjenesten for redusert foreldrebetaling  er nå tilgjengeliggjort av Skatteetaten. Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.Se mer infromasjon om: [Redusert foreldrebetaling barnehage og SFO](https://www.ks.no/fagomrader/digitalisering/felleslosninger/deling-av-opplysninger-fra-skatteetaten/barnehage-og-skolefritidsordning/)    
+API-et/delingtjenesten for redusert foreldrebetaling  er nå tilgjengeliggjort av Skatteetaten. Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.Se mer informasjon om: [Redusert foreldrebetaling barnehage og SFO](https://www.ks.no/fagomrader/digitalisering/felleslosninger/deling-av-opplysninger-fra-skatteetaten/barnehage-og-skolefritidsordning/)    
 
 - Navnet på API-et som benyttes er: [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - Navnet på rettighetspakken er ***kommuneforeldrebetaling***
@@ -15,7 +15,7 @@ API-et/delingtjenesten for redusert foreldrebetaling  er nå tilgjengeliggjort a
 - Skatteetatens dokumentasjon av [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
 
-**Kommunal boligsosial støtte (er i pilot)**
+**Kommunal boligsosial støtte (Er i pilot)**
 
 API-et/delingstjenesten for vedtak om tildeling av behovsprøvet kommunal boligsosial støtte er nå i pilotprosjekt med KOBO (digitalt system for kommunale utleieboliger) og Oslo kommunes Kombo-prosjekt. For behovsprøvet boligsosial støtte trenger saksbehandler løpende inntektsopplysninger fra a-ordninger, opplysninger fra skattemelding og skatteoppgjør. API-et vil derfor dele siste tilgjengelige informasjon om en innbygger fra både a-meldingen, skattemelding og skatteoppgjør. Til dette benyttes to API-er. Se mer informasjon: [Kommunal boligsosial støtte](https://www.ks.no/fagomrader/digitalisering/felleslosninger/deling-av-opplysninger-fra-skatteetaten/kommunal-bolig-og-kommunal-bostotte/)
 
