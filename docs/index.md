@@ -4,8 +4,7 @@ Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre 
 Se mer informasjon om prosjektet her: 
 - KS sin informasjonsside for prosjektet: [KS Skattedeling](https://www.ks.no/skattedeling)
 
-Det er Skatteetaten som utvikler, forvalter og eier API-ene gjennom Skatteetatens delingstjenester. Det har egen kanal for teknisk dokumentasjon av alle deres API-er samt driftsmeldinger knyttet til disse:   
-[Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
+Det er Skatteetaten som utvikler, forvalter og eier API-ene gjennom Skatteetatens delingstjenester. Det har egen kanal for teknisk dokumentasjon av alle deres API-er samt driftsmeldinger knyttet til disse: [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
 
 ### Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)
 API-et/delingstjenesten [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) er nå tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger  kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.   
