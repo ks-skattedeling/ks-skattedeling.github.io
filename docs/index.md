@@ -1,17 +1,26 @@
 ## KS Skattedeling Dokumentasjon
 
 Her finner du dokumentasjon for hvordan kommunal sektor går fram for å gjøre en påkobling til Skatteetatens API-er. 
-Se mer informasjon om prosjektet her: 
-- KS sin informasjonsside for prosjektet: [KS Skattedeling](https://www.ks.no/skattedeling)
+Se mer informasjon på KS sin informasjonsside: [KS Skattedeling](https://www.ks.no/skattedeling)
 
 Det er Skatteetaten som utvikler, forvalter og eier API-ene gjennom Skatteetatens delingstjenester. Det har egen kanal for teknisk dokumentasjon av alle deres API-er samt driftsmeldinger knyttet til disse: [Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/index.html)
 
 **Redusert foreldrebetaling barnehage og skolefritidsordning AKS/SFO (Er tilgjengelig for påkobling)**
-API-et/delingstjenesten [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) er nå tilgjengeliggjort av Skatteetaten, og har rettighetspakken «kommuneforeldrebetaling». Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger  kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.   
+API-et/delingtjenesten for redusert foreldrebetaling  er nå tilgjengeliggjort av Skatteetaten. Dette er et ferdig dataminimert datasett med de nødvendige skatte- og innntektsopplysninger  kommunal sektor trenger for å gjøre et vedtak for tjenesten redusert foreldrebetaling barnehage og SFO/AKS.   
 
-For dokumentasjon av Skatteetatens API for redusert foreldrebetaling barnehage og SFO/AKS (Summert skattegrunnlag API): 
-- [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
+API-et som benyttes er [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
+- Navnet på rettighetspakken er ***kommuneforeldrebetaling***
+- Navnet på scope i Maskinporten er ***skatteetaten:summerskattegrunnlag***
+- Skatteetatens dokumentasjon av [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html)
 - [Skatteetatens informasjonsmodell for "Summert skattegrunnlag API" 2021](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/data_summertskattegrunnlag2021)
+
+**kommunal boligsosiale formål (er i pilot)**
+API-et/delingstjenesten for vedtak om tildeling av behovsprøvet kommunal boligsosial støtte er nå i pilotprosjekt med KOBO (digitalt system for kommunale utleieboliger) og Oslo kommunes Kombo-prosjekt. For behovsprøvet boligsosial støtte trenger saksbehandler løpende inntektsopplysninger fra a-ordninger, opplysninger fra skattemelding og skatteoppgjør. API-et vil derfor dele siste tilgjengelige informasjon om en innbygger fra både a-meldingen, skattemelding og skatteoppgjør. Til dette benyttes to API-er.
+
+- Navnet på er: [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html og [Inntektsmottaker API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_inntektsmottaker.html)
+- Navnet på rettighetspakken er ***kommuneboligsosialeformaal***
+- Navnet på scope i Maskinporten er ***skatteetaten:summerskattegrunnlag***
+- Rettigheten som skal delegeres i Altinn er ***Summert skattegrunnlag - På vegne av***
 
 ### Flere alternativer å gjøre en påkobling mot Skatteetatens API-er
 Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API-er:
