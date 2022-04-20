@@ -21,8 +21,8 @@ API-et/delingstjenesten for vedtak om tildeling av behovsprøvet kommunal boligs
 
 - Navnet på på API-ene som benyttes er: [Summert skattegrunnlag API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_summertskattegrunnlag.html) og [Inntektsmottaker API](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/reference_inntektsmottaker.html)
 - Navnet på rettighetspakken er ***kommuneboligsosialeformaal***
-- Navnet på scope i Maskinporten er ***skatteetaten:summerskattegrunnlag***
-- Rettigheten som skal delegeres i Altinn er ***Summert skattegrunnlag - På vegne av***
+- Navnet på scopene i Maskinporten er ***skatteetaten:summerskattegrunnlag*** og ***skatteetaten:inntekt***
+- Rettighetene som skal delegeres i Altinn er ***Summert skattegrunnlag - På vegne av*** og ***Inntekt API*** OBS: Begge rettighetene må delegeres!
 
 ### Alternativer for å gjøre en påkobling mot Skatteetatens API-er
 Det finnes flere alternativer for å gjøre en påkobling mot Skatteetatens API-er:
