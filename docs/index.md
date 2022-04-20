@@ -49,13 +49,12 @@ Avtalen og informasjon om hvordan gjøre en påkobling til Skatteetatens API-er 
 
 Du kan også ta kontakt med ***skattedeling@ks.no*** for å få tilsendt avtale. 
 
-
 Avtalen må fylles ut med følgende informasjon:
 
 - Kommunens hovedorganisasjonsnummer (og er samme org.nr. som brukes i avtalen og i delegering i Altinn). 
 - Kontaktinformasjon til kommunen (kommunens e-postadresse)
 - Kontaktinformasjon til en kontaktperson i kommunen
-- Skriv i emnefeltet på epost navnet på kommunen som ønsker å gjøre påkobling og for hvilken tjeneste. For eksempel: X kommune ønsker å gjøre påkobling til Skatteetatens API for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
+- Skriv kommunenavnet i emnefeltet på epost. For eksempel: X kommune ønsker å gjøre påkobling til Skatteetatens API for redusert foreldrebetaling barnehage og skolefritidsordning (SFO).
 - Om kommunen skal gjøre en påkobling til API gjennom en fagsystemleverandør, opplys i samme epost om hvem som er leverandøren.
 
 **Husk!** Om avtalen ikke fylles ut digitalt, skriv tydelig med blokkbokstaver.
@@ -91,8 +90,6 @@ For veiledning for å delegere rettigheter i Altinn:
 - [Slik bruker du Maskinporten som API-konsument](https://docs.digdir.no/docs/Maskinporten/maskinporten_guide_apikonsument.html)
 - Dokumentasjon av [Virksomhetssertifikat](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/about_virksomhetssertifikat.html)
 
-Scope i Maskinporten som skal benyttes har navnet **Skatteetaten:summertskattegrunnlag**
-
 ### Kontakt og brukerstøtte
 KS og Skatteetaten har signert en avtale om segmentsamarbeid som utpeker KS som segmentansvarlig. Rollen som segmentansvarlig innebærer at KS er kontaktpunkt og koordinator mellom kommunal sektor og Skatteetaten (single point of contact). 
 
@@ -108,7 +105,6 @@ Dersom det oppstår feil i tilgangen eller feilmelding, er det viktig at følgen
 - Hvilket tidspunkt oppstod feilen.
 - Har kommunen på noen tidspunkt kunne hente ned skatte- og inntektsopplysninger gjennom API-et? 
 - Om fagsystemleverandøre gjør påkobling på vegne av kommunen, har kommunen delegert rettighet til fagsystemleverandøren? 
-
 
 ### Abonnere på nyheter og driftsvarsel fra Skatteetaten ###
 I henhold til Skatteetatens bruks- og delingsvilkår må deres datakonsumenter abonnere på [driftsvarsel fra Skatteetatens delingstjenester](https://skatteetaten.github.io/datasamarbeid-api-dokumentasjon/tag_news.html). På denne måten får du raskest mulig beskjed om endringer i API, dokumentasjon, feil eller nedetid hos Skatteetaten. Vi ber derfor alle kommuner som har signert tilslutningserklæring og tatt i bruk et av Skatteetatens API-er om å abonnere driftsvarsel fra Skatteetatens Delingstjenester. 
